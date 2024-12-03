@@ -1,0 +1,5 @@
+Installation is complete!
+
+You can now open the Sports Application from your desktop or Start menu.
+
+If you encounter any issues, please contact support at support@rrc.ca.

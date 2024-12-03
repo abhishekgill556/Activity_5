@@ -1,0 +1,3 @@
+Welcome to the Transit Application Installer!
+
+Please review the license agreement before proceeding.

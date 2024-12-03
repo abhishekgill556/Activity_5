@@ -1,0 +1,3 @@
+Welcome to the Sports Application Installer!
+
+This will install the Sports Application on your computer. Follow the steps to complete the installation.

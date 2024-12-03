@@ -1,0 +1,5 @@
+License: Sports Application License
+
+License files are important because they provide information on how end users can legally use and share the application data.
+
+Author: Abhishek Gill

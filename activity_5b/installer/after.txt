@@ -1,0 +1,2 @@
+Thank you for installing the Transit Application!
+You can now launch the application from your desktop.
